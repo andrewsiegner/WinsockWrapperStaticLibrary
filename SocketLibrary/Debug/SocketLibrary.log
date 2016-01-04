@@ -1,0 +1,13 @@
+﻿Build started 12/19/2015 4:38:34 AM.
+     1>Project "C:\Users\Andrewn\Documents\Visual Studio 2015\Projects\SocketSolution\SocketLibrary\SocketLibrary.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /IC:\BOOST\lib /I"C:\BOOST\include\boost-1_58" /AIC:\BOOST\lib /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\SocketLibrary.pdb" /Gd /TP /analyze- /errorReport:prompt SocketLib.cpp
+         SocketLib.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\Lib.exe /OUT:"C:\Users\Andrewn\Documents\Visual Studio 2015\Projects\SocketSolution\Debug\SocketLibrary.lib" /NOLOGO Debug\SocketLib.obj
+         SocketLibrary.vcxproj -> C:\Users\Andrewn\Documents\Visual Studio 2015\Projects\SocketSolution\Debug\SocketLibrary.lib
+     1>Done Building Project "C:\Users\Andrewn\Documents\Visual Studio 2015\Projects\SocketSolution\SocketLibrary\SocketLibrary.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.53
